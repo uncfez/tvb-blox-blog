@@ -30,21 +30,21 @@ bio: Bara en zon till...
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 # social:
-  - icon: at-symbol
-    link: 'mailto:your-email@example.com'
-  - icon: x
-    link: https://twitter.com/GetResearchDev
-    label: Follow me on X
-  - icon: instagram
-    link: https://www.instagram.com/
-  - icon: linkedin
-    link: https://www.linkedin.com/
+#  - icon: at-symbol
+#    link: 'mailto:your-email@example.com'
+#  - icon: x
+#    link: https://twitter.com/GetResearchDev
+#    label: Follow me on X
+#  - icon: instagram
+#    link: https://www.instagram.com/
+#  - icon: linkedin
+#    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: cv
-    link: uploads/resume.pdf
-  - icon: rss
-    icon_pack: wc
-    link: ./post/index.xml
+#  - icon: cv
+#    link: uploads/resume.pdf
+#  - icon: rss
+#    icon_pack: wc
+#    link: ./post/index.xml
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
